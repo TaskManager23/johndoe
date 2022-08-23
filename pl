@@ -555,4 +555,4 @@ game.Debris:AddItem(jtrace,1)
 end
 end
 
-https://pastebinp.com/raw/Lb5CPHZW
+game:GetService("Workspace")["lolfact_f"].Humanoid.WalkSpeed = 85
